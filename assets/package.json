@@ -1,0 +1,7 @@
+{
+  "name": "PlayerData",
+  "version": "1.0.0",
+  "dependencies": {
+    "PlayerID": "0001"
+  }
+}
